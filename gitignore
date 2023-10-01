@@ -1,0 +1,4 @@
+data
+data/train.csv
+gitignore 
+.DS_Store
